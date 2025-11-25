@@ -1,0 +1,7 @@
+{
+  "name": "AeroRange - Flight Planner",
+  "description": "A professional flight range visualizer for pilots. Calculate maximum range based on endurance or detailed fuel consumption profiles (climb, cruise, descent) and visualize it on a map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
